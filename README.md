@@ -35,5 +35,5 @@
 
 <br>
 
-[instagram]: https://www.linkedin.com/in/shivam-bhardwaj-482686170
-[linkedin]: https://twitter.com/ShivamB28878769
+[instagram]: https://www.instagram.com/_shivambhardwaj.20/
+[linkedin]: https://www.linkedin.com/in/shivam-bhardwaj-482686170
