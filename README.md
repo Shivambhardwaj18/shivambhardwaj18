@@ -4,7 +4,7 @@
 
 
 - Currently working on React Js Development ✔
-- I’m looking to collaborate with other passionate JavaScript and TypeScript developers ✔
+- I’m looking to collaborate with other passionate JavaScript and React Js developers ✔
 - 2021 Goals: Contribute more to open-source projects ✔
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/7qZlvp1F537sdjGdIB7R4j?si=gK4ZJOZWTZu9Ul_po-STlQ)
