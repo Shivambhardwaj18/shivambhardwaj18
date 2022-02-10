@@ -5,7 +5,7 @@
 
 - Currently working on React Js Development ✔
 - I’m looking to collaborate with other passionate JavaScript and React Js developers ✔
-- 2021 Goals: Contribute more to open-source projects ✔
+- 2022 Goals: Contribute more to open-source projects ✔
 
 ### Connect with me:
 
