@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][linkedin]
+[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://img.icons8.com/fluency/344/linkedin.png" style = "color:#d4af37"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][instagram]
 
 <br>
