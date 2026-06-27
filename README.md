@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhardwaj</h1>
-<h3 align="center">Full-Stack Software Developer • 4.5+ Years • JavaScript / TypeScript / React.js</h3>
+<h3 align="center">  Software Developer • 4.5+ Years • JavaScript / TypeScript / React.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Developer;Scalable+Web+Apps+%26+Microservices;React.js+%7C+Node.js+%7C+TypeScript;Real-Time+%26+Event-Driven+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=560&lines= +Software+Developer;Scalable+Web+Apps+%26+Microservices;React.js+%7C+Node.js+%7C+TypeScript;Real-Time+%26+Event-Driven+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💼 **Full-Stack Developer** with **4.5+ years** building scalable web apps & distributed microservices
+- 💼 **  Developer** with **4.5+ years** building scalable web apps & distributed microservices
 - ⚡ Focused on **performance** — reducing latency, optimizing queries, and accelerating release cycles
 - 🔄 Strong in **real-time, event-driven systems** (Socket.io, WebSockets, background workers)
 - 🏗️ Comfortable across the stack: **React.js / Redux** on the front, **Node.js / Express** and **PostgreSQL / MongoDB** on the back
