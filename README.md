@@ -1,37 +1,57 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivam Bhardwaj</h1>
+<h3 align="center">Full-Stack Software Developer • 4.5+ Years • JavaScript / TypeScript / React.js</h3>
 
-## Software Developer 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Developer;Scalable+Web+Apps+%26+Microservices;React.js+%7C+Node.js+%7C+TypeScript;Real-Time+%26+Event-Driven+Systems" alt="Typing SVG" />
+</p>
 
+---
 
-- Currently working on React Js Development ✔
-- I’m looking to collaborate with other passionate JavaScript and React Js developers ✔
-- 2022 Goals: Contribute more to open-source projects ✔
+### 🧑‍💻 About Me
 
-### Connect with me:
+- 💼 **Full-Stack Developer** with **4.5+ years** building scalable web apps & distributed microservices
+- ⚡ Focused on **performance** — reducing latency, optimizing queries, and accelerating release cycles
+- 🔄 Strong in **real-time, event-driven systems** (Socket.io, WebSockets, background workers)
+- 🏗️ Comfortable across the stack: **React.js / Redux** on the front, **Node.js / Express** and **PostgreSQL / MongoDB** on the back
+- 🤝 Thrive in **Agile / Scrum** teams with code reviews, REST APIs, and clean architecture
 
-[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://img.icons8.com/fluency/344/linkedin.png" style = "color:#d4af37"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][instagram]
+---
 
-<br>
-<br>
+### 🌐 Connect with me
 
-### 🔨 Languages and Tools
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivambhardwaj18/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_shivaam.18" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:shivambhardawaj0129@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+---
 
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+### 🛠️ Tech Stack
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,redux,nodejs,express,postgres,mongodb,tailwind,materialui,git,aws&theme=dark" alt="Tech stack" />
+</p>
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+---
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+### 📊 GitHub Stats
 
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivambhardwaj18&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivambhardwaj18&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivambhardwaj18&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<br>
-
-[instagram]: https://www.instagram.com/_shivambhardwaj.20/
-[linkedin]: https://www.linkedin.com/in/shivam-bhardwaj-482686170
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivambhardwaj18&label=Profile%20views&color=6e40c9&style=flat" alt="Profile views" />
+</p>
